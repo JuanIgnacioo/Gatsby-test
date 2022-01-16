@@ -7,7 +7,7 @@ import Layout from '../components/layout'
 import wsp from '../assets/images/wsppicon.png'
 
 const HomeIndex = () => {
-  const siteTitle = 'Nicolas Caruso Lombardi'
+  const siteTitle = 'Nicolas Caruso Lombardi '
   const siteDescription = 'Site description'
 
   const scrollToEnd = () => {
@@ -37,9 +37,9 @@ const HomeIndex = () => {
         <section id="one">
           <header className="major">
             <h2>
-              Soluciones legales
+              Soluciones legales 
               <br />
-              <span style={styleSpan}>para el mundo actual.</span>
+              <span style={styleSpan}> para el mundo actual.</span>
             </h2>
           </header>
 
